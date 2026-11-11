@@ -1,6 +1,7 @@
-name: Update IPTV Playlist yantv
+name: Update IPTV Playlist 
 on:
-  workflow_dispatch:
+ schedule:
+ - cron: "0 2 * * 1-5"
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
