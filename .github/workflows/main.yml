@@ -16,7 +16,7 @@ jobs:
         echo "#EXTM3U" > playlist.m3u
         curl -sL "http://2e5ce634a78d.ottclub.net/playlists/uplist/5a958f790c5d678ca3464ffa6383f0de/playlist.m3u8" | grep -v "#EXTM3U" >> playlist.m3u
         curl -sL "https://p.rapidnas.org/playlist/Yan888/Y9041775122y/playlist.m3u8" | grep -v "#EXTM3U" >> playlist.m3u
-        curl -sL "https://iptvcinema.ru/no/Yantv01/9041775122/playlist.m3u8" | grep -v "#EXTM3U" >> playlist.m3u
+        curl -sL "https://https://iptvcinema.ru/Yantv01/9041775122/playlist.m3u8" | grep -v "#EXTM3U" >> playlist.m3u
     - name: Commit and push changes
       run: |
         git config --global user.name "GitHub Action"
