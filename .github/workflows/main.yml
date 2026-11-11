@@ -2,8 +2,7 @@ name: Update IPTV Playlist yantv
 
 on:
   schedule:
-    - cron:
-        0 */23 * * *
+    - cron: 0 */12 * * *
   workflow_dispatch:
 
 jobs:
@@ -15,7 +14,7 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Download and merge playlists
-      run: |
+      run: 
         echo "#EXTM3U" > playlist.m3u
         curl -sL "http://2e5ce634a78d.ottclub.net/playlists/uplist/5a958f790c5d678ca3464ffa6383f0de/playlist.m3u8" | grep -v "#EXTM3U" >> playlist.m3u
         curl -sL "https://p.rapidnas.org/playlist/Yan888/Y9041775122y/playlist.m3u8" | grep -v "#EXTM3U" >> playlist.m3u
