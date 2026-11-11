@@ -3,7 +3,7 @@ name: Update IPTV Playlist yantv
 on:
   schedule:
     - cron:
-        0 */12 * * *
+        0 */23 * * *
   workflow_dispatch:
 
 jobs:
