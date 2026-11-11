@@ -1,7 +1,7 @@
 name: Update IPTV Playlist 
 on:
  schedule:
- - cron: "0 2 * * 1-5"
+ - cron: "0 2 * * 1-6"
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
