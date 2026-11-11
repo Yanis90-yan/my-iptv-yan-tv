@@ -1,0 +1,26 @@
+name: Update IPTV Playlist yantv
+on:
+  schedule:
+    - cron: '0 */12 * * *
+  workflow_dispatch:
+  jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Download and merge playlists
+      run: |
+        echo "#EXTM3U" > playlist.m3u
+        curl -sL "http://2e5ce634a78d.ottclub.net/playlists/uplist/5a958f790c5d678ca3464ffa6383f0de/playlist.m3u8" | grep -v "#EXTM3U" >> playlist.m3u
+        curl -sL "https://p.rapidnas.org/playlist/Yan888/Y9041775122y/playlist.m3u8" | grep -v "#EXTM3U" >> playlist.m3u
+        curl -sL "https://iptvcinema.ru/no/Yantv01/9041775122/playlist.m3u8" | grep -v "#EXTM3U" >> playlist.m3u
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add playlist.m3u
+        git commit -m "Auto-update playlist" || exit 0
+        git push
