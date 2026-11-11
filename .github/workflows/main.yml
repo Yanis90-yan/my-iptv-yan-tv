@@ -1,4 +1,5 @@
-name: Update IPTV Playlist yantv
+name: Update IPTV Playlist
+
 on:
   schedule:
     - cron: 0 */12 * * *
