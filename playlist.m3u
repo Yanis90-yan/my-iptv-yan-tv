@@ -14,7 +14,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19404/index.m3u8
 #EXTINF:0 tvg-rec="0",Экоспаскоми (Коми)
 #EXTGRP:новости
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/17018/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports News HD 50 UK
+#EXTINF:0 tvg-rec="7",Sky Sports News HD 50 UK
 #EXTGRP:новости
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9314/index.m3u8
 #EXTINF:0 tvg-rec="0",Крик ТВ HD
@@ -128,9 +128,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/714/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +2 (Белорецк)
 #EXTGRP:новости
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15486/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +2 (Нефтекамск)
-#EXTGRP:новости
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15481/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +2 (Уфа)
 #EXTGRP:новости
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15301/index.m3u8
@@ -272,9 +269,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19177/index.m3u8
 #EXTINF:0 tvg-rec="0",BBC Alba UK
 #EXTGRP:новости
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19179/index.m3u8
-#EXTINF:0 tvg-rec="0",24 Horas ES
-#EXTGRP:новости
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31818/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Нижний Новгород)
 #EXTGRP:новости
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31891/index.m3u8
@@ -341,7 +335,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32239/index.m3u8
 #EXTINF:0 tvg-rec="0",CCTV 4 CN
 #EXTGRP:новости
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32243/index.m3u8
-#EXTINF:0 tvg-rec="3",VF Сериалы Турции
+#EXTINF:0 tvg-rec="7",VF Сериалы Турции
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9123/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Вестерн
@@ -350,7 +344,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31553/index.m3u8
 #EXTINF:0 tvg-rec="0",Viasat Kino World orig
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31447/index.m3u8
-#EXTINF:0 tvg-rec="0",KinoLiving
+#EXTINF:0 tvg-rec="0",КиноЛивинг
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16018/index.m3u8
 #EXTINF:0 tvg-rec="0",Vesna HD
@@ -401,9 +395,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/17051/index.m3u8
 #EXTINF:0 tvg-rec="0",NOW Series HD
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15102/index.m3u8
-#EXTINF:0 tvg-rec="0",FilmZone Plus HD EE
-#EXTGRP:кино
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20025/index.m3u8
 #EXTINF:0 tvg-rec="0",Duo 3 HD LT
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20026/index.m3u8
@@ -419,7 +410,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14207/index.m3u8
 #EXTINF:0 tvg-rec="0",Citrus Holiday
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16089/index.m3u8
-#EXTINF:0 tvg-rec="3",VF Счастливы Вместе
+#EXTINF:0 tvg-rec="7",VF Счастливы Вместе
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9242/index.m3u8
 #EXTINF:0 tvg-rec="7",VF Бесстыжие
@@ -461,7 +452,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/10066/index.m3u8
 #EXTINF:0 tvg-rec="0",FX
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6516/index.m3u8
-#EXTINF:0 tvg-rec="3",FX Life
+#EXTINF:0 tvg-rec="7",FX Life
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9232/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX M.Serial HD
@@ -1298,7 +1289,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16083/index.m3u8
 #EXTINF:0 tvg-rec="0",BCU Survival OLD
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/17020/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Romantic OLD
+#EXTINF:0 tvg-rec="0",BCU Romantic HD
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/18052/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty DC FHD
@@ -1781,18 +1772,12 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32186/index.m3u8
 #EXTINF:0 tvg-rec="0",U&Eden UK
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32256/index.m3u8
-#EXTINF:0 tvg-rec="0",U&Gold UK
-#EXTGRP:кино
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32257/index.m3u8
 #EXTINF:0 tvg-rec="0",U&Dave UK
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32258/index.m3u8
 #EXTINF:0 tvg-rec="0",Crime + Investigation UK
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32259/index.m3u8
-#EXTINF:0 tvg-rec="0",U&Alibi UK
-#EXTGRP:кино
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32260/index.m3u8
 #EXTINF:0 tvg-rec="0",Serie Club FR
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32264/index.m3u8
@@ -1811,16 +1796,10 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32306/index.m3u8
 #EXTINF:0 tvg-rec="0",Diema BG
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32308/index.m3u8
-#EXTINF:0 tvg-rec="0",True Crime Xtra UK
-#EXTGRP:кино
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32326/index.m3u8
 #EXTINF:0 tvg-rec="0",Channel 4 HD UK
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32330/index.m3u8
-#EXTINF:0 tvg-rec="0",Legend Xtra UK
-#EXTGRP:кино
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32335/index.m3u8
-#EXTINF:0 tvg-rec="0",Legend UK
+#EXTINF:0 tvg-rec="0",Sky Sports Main Event HD UK
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32336/index.m3u8
 #EXTINF:0 tvg-rec="0",HBO Max Avances HD ES
@@ -1832,7 +1811,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32347/index.m3u8
 #EXTINF:0 tvg-rec="0",AXN Movies HD ES
 #EXTGRP:кино
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32348/index.m3u8
-#EXTINF:0 tvg-rec="3",Bridge Фрэш HD
+#EXTINF:0 tvg-rec="7",Bridge Фрэш HD
 #EXTGRP:музыка
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9053/index.m3u8
 #EXTINF:0 tvg-rec="0",1HD Music Television HD
@@ -2039,9 +2018,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16072/index.m3u8
 #EXTINF:0 tvg-rec="0",Kiss Kiss Italia HD
 #EXTGRP:музыка
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16073/index.m3u8
-#EXTINF:0 tvg-rec="0",Zerouno TV HD IT
-#EXTGRP:музыка
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16076/index.m3u8
 #EXTINF:0 tvg-rec="0",Bridge Фрэш
 #EXTGRP:музыка
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/17045/index.m3u8
@@ -2129,7 +2105,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19174/index.m3u8
 #EXTINF:0 tvg-rec="0",MTV US
 #EXTGRP:музыка
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19192/index.m3u8
-#EXTINF:0 tvg-rec="0",That's 70s UK
+#EXTINF:0 tvg-rec="0",NOW 70s UK
 #EXTGRP:музыка
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19194/index.m3u8
 #EXTINF:0 tvg-rec="0",Now 80s UK
@@ -2147,9 +2123,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19223/index.m3u8
 #EXTINF:0 tvg-rec="0",Bridge Rock HD
 #EXTGRP:музыка
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19225/index.m3u8
-#EXTINF:0 tvg-rec="0",Bridge Русский Хит HD
-#EXTGRP:музыка
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19226/index.m3u8
 #EXTINF:0 tvg-rec="0",Bridge Hits HD
 #EXTGRP:музыка
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19227/index.m3u8
@@ -2159,9 +2132,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19255/index.m3u8
 #EXTINF:0 tvg-rec="0",CHD-TV Rock HD
 #EXTGRP:музыка
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19394/index.m3u8
-#EXTINF:0 tvg-rec="0",NM Television HD
-#EXTGRP:музыка
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20161/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX RU.RAP HD
 #EXTGRP:музыка
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20171/index.m3u8
@@ -2210,7 +2180,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32311/index.m3u8
 #EXTINF:0 tvg-rec="3",National Geographic orig
 #EXTGRP:познавательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2336/index.m3u8
-#EXTINF:0 tvg-rec="3",Моя Стихия
+#EXTINF:0 tvg-rec="7",Моя Стихия
 #EXTGRP:познавательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9221/index.m3u8
 #EXTINF:0 tvg-rec="3",Еда
@@ -2225,7 +2195,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16000/index.m3u8
 #EXTINF:0 tvg-rec="0",Арт
 #EXTGRP:познавательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16141/index.m3u8
-#EXTINF:0 tvg-rec="0",Неизвестная Россия HD
+#EXTINF:0 tvg-rec="0",НТВ Неизвестная Россия
 #EXTGRP:познавательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16087/index.m3u8
 #EXTINF:0 tvg-rec="0",The Explorers HD
@@ -2324,7 +2294,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/162/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju Explore
 #EXTGRP:познавательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/163/index.m3u8
-#EXTINF:0 tvg-rec="7",Океан HD
+#EXTINF:0 tvg-rec="7",Океан
 #EXTGRP:познавательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/703/index.m3u8
 #EXTINF:0 tvg-rec="7",Бобёр
@@ -2525,7 +2495,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31922/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый Российский Национальный Канал HD
 #EXTGRP:познавательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31923/index.m3u8
-#EXTINF:0 tvg-rec="0",Научпоп HD
+#EXTINF:0 tvg-rec="0",VHS-ка Научпоп HD
 #EXTGRP:познавательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31924/index.m3u8
 #EXTINF:0 tvg-rec="0",Наше Наследие HD
@@ -2549,13 +2519,10 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32254/index.m3u8
 #EXTINF:0 tvg-rec="0",More4 UK
 #EXTGRP:познавательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32334/index.m3u8
-#EXTINF:0 tvg-rec="0",True Crime UK
-#EXTGRP:познавательные
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32337/index.m3u8
 #EXTINF:0 tvg-rec="0",Cartoon Classics
 #EXTGRP:детские
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2075/index.m3u8
-#EXTINF:0 tvg-rec="3",Тооку (Якутия)
+#EXTINF:0 tvg-rec="7",Тооку (Якутия)
 #EXTGRP:детские
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9172/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Disney Cartoon
@@ -2660,7 +2627,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1033/index.m3u8
 #EXTINF:0 tvg-rec="3",СуперГерои
 #EXTGRP:детские
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1041/index.m3u8
-#EXTINF:0 tvg-rec="7",NickToons HD
+#EXTINF:0 tvg-rec="7",NickToons
 #EXTGRP:детские
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/849/index.m3u8
 #EXTINF:0 tvg-rec="7",Радость моя
@@ -2714,7 +2681,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15092/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Дисней FHD
 #EXTGRP:детские
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15093/index.m3u8
-#EXTINF:0 tvg-rec="0",Disney Channel HD FR
+#EXTINF:0 tvg-rec="0",Disney+ Germany HD DE
 #EXTGRP:детские
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15185/index.m3u8
 #EXTINF:0 tvg-rec="0",Карусель +7 (Владивосток)
@@ -2942,15 +2909,9 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16016/index.m3u8
 #EXTINF:0 tvg-rec="0",MyZen TV HD
 #EXTGRP:развлекательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20011/index.m3u8
-#EXTINF:0 tvg-rec="0",НТВ Стиль HD
+#EXTINF:0 tvg-rec="0",НТВ Стиль жизни HD
 #EXTGRP:развлекательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20037/index.m3u8
-#EXTINF:0 tvg-rec="0",Кухня HD
-#EXTGRP:развлекательные
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15132/index.m3u8
-#EXTINF:0 tvg-rec="0",FashionBox HD
-#EXTGRP:развлекательные
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20038/index.m3u8
 #EXTINF:0 tvg-rec="0",Ключ HD
 #EXTGRP:развлекательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20041/index.m3u8
@@ -2978,7 +2939,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15401/index.m3u8
 #EXTINF:0 tvg-rec="7",Жара
 #EXTGRP:развлекательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/105/index.m3u8
-#EXTINF:0 tvg-rec="7",НТВ Стиль
+#EXTINF:0 tvg-rec="7",НТВ Стиль жизни
 #EXTGRP:развлекательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/745/index.m3u8
 #EXTINF:0 tvg-rec="3",Fashion & Lifestyle FHD
@@ -3044,9 +3005,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31843/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmo HD ES
 #EXTGRP:развлекательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31871/index.m3u8
-#EXTINF:0 tvg-rec="0",M+ Ellas Vamos HD ES
-#EXTGRP:развлекательные
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31875/index.m3u8
 #EXTINF:0 tvg-rec="0",Energy HD ES
 #EXTGRP:развлекательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31879/index.m3u8
@@ -3107,9 +3065,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32328/index.m3u8
 #EXTINF:0 tvg-rec="0",4seven UK
 #EXTGRP:развлекательные
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32329/index.m3u8
-#EXTINF:0 tvg-rec="0",Comedy Centra Extra UK
-#EXTGRP:развлекательные
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32333/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Tennis HD 50 UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6546/index.m3u8
@@ -3161,34 +3116,34 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31576/index.m3u8
 #EXTINF:0 tvg-rec="0",Cytavision Sports 7 GR
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31577/index.m3u8
-#EXTINF:0 tvg-rec="0",Cosmote Sport 1 HD GR
+#EXTINF:0 tvg-rec="0",Magenta Sport 1 HD GR
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31578/index.m3u8
-#EXTINF:0 tvg-rec="0",Cosmote Sport 2 HD GR
+#EXTINF:0 tvg-rec="0",Magenta Sport 2 HD GR
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31579/index.m3u8
-#EXTINF:0 tvg-rec="0",Cosmote Sport 3 HD GR
+#EXTINF:0 tvg-rec="0",Magenta Sport 3 HD GR
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31581/index.m3u8
-#EXTINF:0 tvg-rec="0",Cosmote Sport 4 HD GR
+#EXTINF:0 tvg-rec="0",Magenta Sport 4 HD GR
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31582/index.m3u8
-#EXTINF:0 tvg-rec="0",Cosmote Sport 5 HD GR
+#EXTINF:0 tvg-rec="0",Magenta Sport 5 HD GR
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31583/index.m3u8
-#EXTINF:0 tvg-rec="0",Cosmote Sport 6 HD GR
+#EXTINF:0 tvg-rec="0",Magenta Sport 6 HD GR
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31584/index.m3u8
-#EXTINF:0 tvg-rec="0",Cosmote Sport 7 HD GR
+#EXTINF:0 tvg-rec="0",Magenta Sport 7 HD GR
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31585/index.m3u8
-#EXTINF:0 tvg-rec="0",Cosmote Sport 8 HD GR
+#EXTINF:0 tvg-rec="0",Magenta Sport 8 HD GR
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31586/index.m3u8
-#EXTINF:0 tvg-rec="0",Cosmote Sport 9 HD GR
+#EXTINF:0 tvg-rec="0",Magenta Sport 9 HD GR
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31587/index.m3u8
-#EXTINF:0 tvg-rec="0",Cosmote Sport Highlights HD GR
+#EXTINF:0 tvg-rec="0",Magenta Sport Highlights HD GR
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31588/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport TV+ HD PT
@@ -3245,39 +3200,36 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31610/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1x2 HD RS
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31611/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Racing HD 50 UK
+#EXTINF:0 tvg-rec="7",Sky Sports Racing HD 50 UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9335/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
+#EXTINF:0 tvg-rec="7",Sky Sports Premier League HD 50 UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9334/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Mix HD 50 UK
+#EXTINF:0 tvg-rec="7",Sky Sports Mix HD 50 UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9310/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Main Event HD 50 UK
+#EXTINF:0 tvg-rec="7",Sky Sports Main Event HD 50 UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9308/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Golf HD 50 UK
+#EXTINF:0 tvg-rec="7",Sky Sports Golf HD 50 UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9293/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Football HD 50 UK
+#EXTINF:0 tvg-rec="7",Sky Sports Football HD 50 UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9289/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports F1 HD 50 UK
+#EXTINF:0 tvg-rec="7",Sky Sports F1 HD 50 UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9283/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Cricket HD 50 UK
+#EXTINF:0 tvg-rec="7",Sky Sports Cricket HD 50 UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9258/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports+ HD UK
+#EXTINF:0 tvg-rec="7",Sky Sports+ HD UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9248/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Action HD 50 UK
+#EXTINF:0 tvg-rec="7",Sky Sports Action HD 50 UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9155/index.m3u8
-#EXTINF:0 tvg-rec="3",Premier Sports 1 HD 50 UK
-#EXTGRP:спорт
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2160/index.m3u8
 #EXTINF:0 tvg-rec="0",Старт Триумф HD
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16034/index.m3u8
@@ -3290,9 +3242,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/5043/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport Premier League HD DE
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/5042/index.m3u8
-#EXTINF:0 tvg-rec="0",Мир Баскетбола HD
-#EXTGRP:спорт
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20004/index.m3u8
 #EXTINF:0 tvg-rec="0",Extreme Sports HD
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20028/index.m3u8
@@ -3437,7 +3386,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2508/index.m3u8
 #EXTINF:0 tvg-rec="3",YAS Sports AE
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2511/index.m3u8
-#EXTINF:0 tvg-rec="3",ON Sport 1 HD EG
+#EXTINF:0 tvg-rec="3",ON Sport 1 EG
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2512/index.m3u8
 #EXTINF:0 tvg-rec="3",Eleven Sports 2 HD PL
@@ -3569,9 +3518,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6564/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT Sports 1 HD UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6566/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 3 FHD PT
-#EXTGRP:спорт
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7062/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 2 HD DE
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7234/index.m3u8
@@ -3710,9 +3656,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7335/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Football HD UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7336/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sports Main Event HD UK
-#EXTGRP:спорт
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7337/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Mix HD UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7339/index.m3u8
@@ -3731,7 +3674,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7343/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Golf HD UK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7344/index.m3u8
-#EXTINF:0 tvg-rec="0",TV 2 Sport HD DK
+#EXTINF:0 tvg-rec="0",TV 2 Sport DK
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7355/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Спорт 1
@@ -3749,9 +3692,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7363/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Спорт 5
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7364/index.m3u8
-#EXTINF:0 tvg-rec="0",Мир Баскетбола
-#EXTGRP:спорт
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/10033/index.m3u8
 #EXTINF:0 tvg-rec="0",Хоккей ТВ HD
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/10039/index.m3u8
@@ -3836,7 +3776,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15183/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA orig
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15184/index.m3u8
-#EXTINF:0 tvg-rec="0",Q Sport.KG HD
+#EXTINF:0 tvg-rec="0",QSport.KG HD
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15238/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч ТВ +2 (Уфа)
@@ -3857,9 +3797,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15409/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч ТВ +0 (Элиста)
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15448/index.m3u8
-#EXTINF:0 tvg-rec="0",Red Bull TV HD DE
-#EXTGRP:спорт
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16039/index.m3u8
 #EXTINF:0 tvg-rec="0",Red Bull TV HD
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16040/index.m3u8
@@ -3923,7 +3860,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19037/index.m3u8
 #EXTINF:0 tvg-rec="0",DAZN 1 HD DE
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19042/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 2 HD DE
+#EXTINF:0 tvg-rec="0",DAZN 1 DE
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19043/index.m3u8
 #EXTINF:0 tvg-rec="0",TNT Sports 4 HD UK
@@ -4046,12 +3983,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19144/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 501 Cricket HD AU
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19146/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports North US
-#EXTGRP:спорт
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19152/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Midwest US
-#EXTGRP:спорт
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19153/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPNews US
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19154/index.m3u8
@@ -4064,7 +3995,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19156/index.m3u8
 #EXTINF:0 tvg-rec="0",DAZN 1 FHD PT
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19158/index.m3u8
-#EXTINF:0 tvg-rec="0",Benfica TV FHD PT
+#EXTINF:0 tvg-rec="0",Benfica TV HD PT
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19160/index.m3u8
 #EXTINF:0 tvg-rec="0",V Sport Ultra HD SE
@@ -4088,22 +4019,16 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19219/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч! Боец HD
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19221/index.m3u8
-#EXTINF:0 tvg-rec="0",MMA-TV.com HD
-#EXTGRP:спорт
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19243/index.m3u8
 #EXTINF:0 tvg-rec="0",Футбол HD
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19244/index.m3u8
-#EXTINF:0 tvg-rec="0",Бокс ТВ HD
-#EXTGRP:спорт
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19245/index.m3u8
 #EXTINF:0 tvg-rec="0",Spor Smart HD TR
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20060/index.m3u8
-#EXTINF:0 tvg-rec="0",Q Arena HD KZ
+#EXTINF:0 tvg-rec="0",QSport 2 Arena HD KZ
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20061/index.m3u8
-#EXTINF:0 tvg-rec="0",Q League HD KZ
+#EXTINF:0 tvg-rec="0",QSport 1 League HD KZ
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20062/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports 1 FHD KZ
@@ -4385,7 +4310,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31950/index.m3u8
 #EXTINF:0 tvg-rec="0",A Bola TV HD PT
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31951/index.m3u8
-#EXTINF:0 tvg-rec="0",Benfica TV HD PT
+#EXTINF:0 tvg-rec="0",Benfica TV PT
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31952/index.m3u8
 #EXTINF:0 tvg-rec="0",Sporting TV HD PT
@@ -4448,7 +4373,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32029/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport HD IN
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32031/index.m3u8
-#EXTINF:0 tvg-rec="0",Q League FHD KZ
+#EXTINF:0 tvg-rec="0",QSport 1 League FHD KZ
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32032/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports CA
@@ -4460,7 +4385,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32044/index.m3u8
 #EXTINF:0 tvg-rec="0",Media Sport HD
 #EXTGRP:спорт
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32048/index.m3u8
-#EXTINF:0 tvg-rec="3",РЖД ТВ
+#EXTINF:0 tvg-rec="7",РЖД ТВ
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9118/index.m3u8
 #EXTINF:0 tvg-rec="0",KidZone Mini HD LV
@@ -4475,9 +4400,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16028/index.m3u8
 #EXTINF:0 tvg-rec="0",Мегаполис HD (Югра)
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16027/index.m3u8
-#EXTINF:0 tvg-rec="3",Мой Мир
-#EXTGRP:другие
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/5008/index.m3u8
 #EXTINF:0 tvg-rec="0",Женский Журнал HD
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20010/index.m3u8
@@ -4811,7 +4733,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6344/index.m3u8
 #EXTINF:0 tvg-rec="3",TV3 Plus LV
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6347/index.m3u8
-#EXTINF:0 tvg-rec="3",TV3 LT
+#EXTINF:0 tvg-rec="3",TV3 HD LT
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6349/index.m3u8
 #EXTINF:0 tvg-rec="3",TV6 LT
@@ -4829,7 +4751,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6355/index.m3u8
 #EXTINF:0 tvg-rec="3",LRT TV LT
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6356/index.m3u8
-#EXTINF:0 tvg-rec="3",TV1 LT
+#EXTINF:0 tvg-rec="3",TV1 HD LT
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6357/index.m3u8
 #EXTINF:0 tvg-rec="3",LNK LT
@@ -5279,9 +5201,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/12104/index.m3u8
 #EXTINF:0 tvg-rec="0",Duo 3 HD EE
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14129/index.m3u8
-#EXTINF:0 tvg-rec="0",Duo 6 HD EE
-#EXTGRP:другие
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14130/index.m3u8
 #EXTINF:0 tvg-rec="0",ETV2 HD EE
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14132/index.m3u8
@@ -5594,9 +5513,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15382/index.m3u8
 #EXTINF:0 tvg-rec="0",ТНТ +3 (Омск)
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15383/index.m3u8
-#EXTINF:0 tvg-rec="0",НТВ +2 (Нефтекамск)
-#EXTGRP:другие
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15384/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +4 (Томск)
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15388/index.m3u8
@@ -5648,9 +5564,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15420/index.m3u8
 #EXTINF:0 tvg-rec="0",Че! +4
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15421/index.m3u8
-#EXTINF:0 tvg-rec="0",7 канал (Красноярск)
-#EXTGRP:другие
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15422/index.m3u8
 #EXTINF:0 tvg-rec="0",Афонтово (Красноярск)
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15423/index.m3u8
@@ -5774,24 +5687,9 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15479/index.m3u8
 #EXTINF:0 tvg-rec="0",РЕН ТВ +0 (Белгород)
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15480/index.m3u8
-#EXTINF:0 tvg-rec="0",СТС +2 (Нефтекамск)
-#EXTGRP:другие
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15482/index.m3u8
-#EXTINF:0 tvg-rec="0",Пятница! +2 (Нефтекамск)
-#EXTGRP:другие
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15483/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВ-3 +2 (Нефтекамск)
-#EXTGRP:другие
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15484/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ +2 (Нефтекамск)
-#EXTGRP:другие
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15485/index.m3u8
 #EXTINF:0 tvg-rec="0",Sochi Live HD
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16038/index.m3u8
-#EXTINF:0 tvg-rec="0",Московское образование HD
-#EXTGRP:другие
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16043/index.m3u8
 #EXTINF:0 tvg-rec="0",That's 80s UK
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/17057/index.m3u8
@@ -5804,7 +5702,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/18003/index.m3u8
 #EXTINF:0 tvg-rec="0",TV6 EE
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/18004/index.m3u8
-#EXTINF:0 tvg-rec="0",TV3 HD LT
+#EXTINF:0 tvg-rec="0",TV3 LT
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/18007/index.m3u8
 #EXTINF:0 tvg-rec="0",Go3 Films HD LV
@@ -5858,9 +5756,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19001/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Top Event HD DE
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19003/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Cinema Classics DE
-#EXTGRP:другие
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19005/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky One DE
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19006/index.m3u8
@@ -5924,7 +5819,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19088/index.m3u8
 #EXTINF:0 tvg-rec="0",UniNettuno University TV IT
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19089/index.m3u8
-#EXTINF:0 tvg-rec="0",Rai Scuola HD IT
+#EXTINF:0 tvg-rec="0",Italiana HD IT
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19090/index.m3u8
 #EXTINF:0 tvg-rec="0",Offener Kanal Wernigerode DE
@@ -5939,9 +5834,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19093/index.m3u8
 #EXTINF:0 tvg-rec="0",Rai News 24 HD IT
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19094/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Cinema Uno HD IT
-#EXTGRP:другие
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19095/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Cinema Stories HD IT
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19096/index.m3u8
@@ -6068,7 +5960,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20042/index.m3u8
 #EXTINF:0 tvg-rec="0",Nick Jr. HD DE
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20043/index.m3u8
-#EXTINF:0 tvg-rec="0",Warner TV Film HD DE
+#EXTINF:0 tvg-rec="0",Sky Cinema Premier DE
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20045/index.m3u8
 #EXTINF:0 tvg-rec="0",Kanal 7 HD EE
@@ -6098,9 +5990,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20125/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир Белогорья HD
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20126/index.m3u8
-#EXTINF:0 tvg-rec="0",Кузбасс Первый HD (Кемерево)
-#EXTGRP:другие
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20128/index.m3u8
 #EXTINF:0 tvg-rec="0",Восток 24 HD (Владивосток)
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20131/index.m3u8
@@ -6329,7 +6218,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31378/index.m3u8
 #EXTINF:0 tvg-rec="0",Schlager Deluxe HD DE
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31379/index.m3u8
-#EXTINF:0 tvg-rec="0",Sat.1 DE
+#EXTINF:0 tvg-rec="0",Sat.1 HD DE
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31380/index.m3u8
 #EXTINF:0 tvg-rec="0",Sat.1 Emotions HD DE
@@ -6407,7 +6296,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31432/index.m3u8
 #EXTINF:0 tvg-rec="0",Warner TV Comedy HD DE
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31433/index.m3u8
-#EXTINF:0 tvg-rec="0",Warner TV Film FHD DE
+#EXTINF:0 tvg-rec="0",Warner TV Film HD DE
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31434/index.m3u8
 #EXTINF:0 tvg-rec="0",WDR HD (Köln) DE
@@ -6491,7 +6380,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31928/index.m3u8
 #EXTINF:0 tvg-rec="0",ETV HD EE
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/12011/index.m3u8
-#EXTINF:0 tvg-rec="0",TV1 HD LT
+#EXTINF:0 tvg-rec="0",TV1 LT
 #EXTGRP:другие
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/12004/index.m3u8
 #EXTINF:0 tvg-rec="0",Viasat Kino
@@ -6605,7 +6494,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/228/index.m3u8
 #EXTINF:0 tvg-rec="7",Eurosport 2 HD
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/234/index.m3u8
-#EXTINF:0 tvg-rec="3",Зоопарк HD
+#EXTINF:0 tvg-rec="7",Зоопарк HD
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9097/index.m3u8
 #EXTINF:0 tvg-rec="0",Аппетитный HD
@@ -6632,7 +6521,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20058/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 2 HD PL
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20066/index.m3u8
-#EXTINF:0 tvg-rec="3",Настоящее время HD
+#EXTINF:0 tvg-rec="7",Настоящее время HD
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9179/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал HD
@@ -6650,7 +6539,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2067/index.m3u8
 #EXTINF:0 tvg-rec="0",QazSport HD KZ
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14032/index.m3u8
-#EXTINF:0 tvg-rec="3",Сочи 24 HD
+#EXTINF:0 tvg-rec="7",Сочи 24 HD
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9040/index.m3u8
 #EXTINF:0 tvg-rec="0",Криминальное HD
@@ -6665,16 +6554,13 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14030/index.m3u8
 #EXTINF:0 tvg-rec="0",Большой Эфир HD
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14012/index.m3u8
-#EXTINF:0 tvg-rec="0",Поехали! HD
-#EXTGRP:HD
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14020/index.m3u8
 #EXTINF:0 tvg-rec="0",National Geographic HD
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14001/index.m3u8
 #EXTINF:0 tvg-rec="0",FX Life HD
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14003/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинеко HD
+#EXTINF:0 tvg-rec="7",Кинеко HD
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9135/index.m3u8
 #EXTINF:0 tvg-rec="3",CineMan Premium
@@ -6707,9 +6593,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6128/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX SR Sport HDR
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31455/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel HD PL
-#EXTGRP:HD
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6102/index.m3u8
 #EXTINF:0 tvg-rec="3",Canal+ 360 HD PL
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6105/index.m3u8
@@ -6794,7 +6677,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6062/index.m3u8
 #EXTINF:0 tvg-rec="3",Nitro FHD DE
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6064/index.m3u8
-#EXTINF:0 tvg-rec="3",Sat.1 HD DE
+#EXTINF:0 tvg-rec="3",Sat.1 DE
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6060/index.m3u8
 #EXTINF:0 tvg-rec="3",Spiegel Geschichte FHD DE
@@ -6953,7 +6836,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/986/index.m3u8
 #EXTINF:0 tvg-rec="3",Fast & Fun Box HD
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1018/index.m3u8
-#EXTINF:0 tvg-rec="3",Epic Drama HD
+#EXTINF:0 tvg-rec="3",Viasat Epic Drama HD
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1048/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый космический HD
@@ -7070,7 +6953,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2135/index.m3u8
 #EXTINF:0 tvg-rec="3",о2тв HD
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2141/index.m3u8
-#EXTINF:0 tvg-rec="3",Dance TV Mainstream EDM
+#EXTINF:0 tvg-rec="3",Dance TV Best of
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2395/index.m3u8
 #EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
@@ -7217,7 +7100,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/11017/index.m3u8
 #EXTINF:0 tvg-rec="7",BCU Мультсериал HD
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/11025/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU СССР HD
+#EXTINF:0 tvg-rec="7",BCU Fantasy HDR
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/11026/index.m3u8
 #EXTINF:0 tvg-rec="7",BCU Action HDR
@@ -7568,7 +7451,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32060/index.m3u8
 #EXTINF:0 tvg-rec="0",Geo News HD PK
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32062/index.m3u8
-#EXTINF:0 tvg-rec="0",ARY News HD PK
+#EXTINF:0 tvg-rec="0",ARY News PK
 #EXTGRP:HD
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32066/index.m3u8
 #EXTINF:0 tvg-rec="0",CNN International Europe HD
@@ -7772,7 +7655,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/910/index.m3u8
 #EXTINF:0 tvg-rec="0",Blue Hustler
 #EXTGRP:взрослые
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1064/index.m3u8
-#EXTINF:0 tvg-rec="3",Redlight HD
+#EXTINF:0 tvg-rec="3",RedLight HD
 #EXTGRP:взрослые
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/242/index.m3u8
 #EXTINF:0 tvg-rec="3",Private TV
@@ -8126,15 +8009,9 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6296/index.m3u8
 #EXTINF:0 tvg-rec="0",SuperOne HD
 #EXTGRP:взрослые
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6298/index.m3u8
-#EXTINF:0 tvg-rec="0",Dorcel TV HD orig
-#EXTGRP:взрослые
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9064/index.m3u8
 #EXTINF:0 tvg-rec="0",Hustler HD orig
 #EXTGRP:взрослые
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9065/index.m3u8
-#EXTINF:0 tvg-rec="0",Redlight HD orig
-#EXTGRP:взрослые
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9066/index.m3u8
 #EXTINF:0 tvg-rec="0",Русская Ночь orig
 #EXTGRP:взрослые
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9344/index.m3u8
@@ -8369,13 +8246,13 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31709/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Ню Арт HD
 #EXTGRP:взрослые
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31716/index.m3u8
-#EXTINF:0 tvg-rec="0",Barely Legal TV
+#EXTINF:0 tvg-rec="0",Искушение
 #EXTGRP:взрослые
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32231/index.m3u8
 #EXTINF:0 tvg-rec="0",Babes TV
 #EXTGRP:взрослые
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32315/index.m3u8
-#EXTINF:0 tvg-rec="0",Delta TV AM
+#EXTINF:0 tvg-rec="0",ATV Bazmoc TV AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/18214/index.m3u8
 #EXTINF:0 tvg-rec="3",H1 HD AM
@@ -8384,7 +8261,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/601/index.m3u8
 #EXTINF:0 tvg-rec="3",Armenia TV HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/605/index.m3u8
-#EXTINF:0 tvg-rec="3",Yerkir Media HD AM
+#EXTINF:0 tvg-rec="3",Noyan Tapan AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/608/index.m3u8
 #EXTINF:0 tvg-rec="3",ATV FHD AM
@@ -8393,7 +8270,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/609/index.m3u8
 #EXTINF:0 tvg-rec="3",Armenia Premium HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/273/index.m3u8
-#EXTINF:0 tvg-rec="3",Azatutyun TV HD AM
+#EXTINF:0 tvg-rec="3",ATV Tava HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/274/index.m3u8
 #EXTINF:0 tvg-rec="3",ATV LifeHack HD AM
@@ -8411,10 +8288,10 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/279/index.m3u8
 #EXTINF:0 tvg-rec="3",ATV Hay TV HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/280/index.m3u8
-#EXTINF:0 tvg-rec="3",ATV Tava HD AM
+#EXTINF:0 tvg-rec="3",ATV Tava AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/281/index.m3u8
-#EXTINF:0 tvg-rec="3",ATV Kinoman HD AM
+#EXTINF:0 tvg-rec="3",ATV Hay TV HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/282/index.m3u8
 #EXTINF:0 tvg-rec="3",Cineman HD AM
@@ -8441,9 +8318,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/602/index.m3u8
 #EXTINF:0 tvg-rec="0",Fresh HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15112/index.m3u8
-#EXTINF:0 tvg-rec="0",H2 AM
-#EXTGRP:Հայկական
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15204/index.m3u8
 #EXTINF:0 tvg-rec="0",Kentron HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15205/index.m3u8
@@ -8453,7 +8327,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15206/index.m3u8
 #EXTINF:0 tvg-rec="0",5TV AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15208/index.m3u8
-#EXTINF:0 tvg-rec="0",Yerkir Media AM
+#EXTINF:0 tvg-rec="0",Yerkin Media HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15209/index.m3u8
 #EXTINF:0 tvg-rec="0",Nor Hayastan AM
@@ -8465,7 +8339,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15211/index.m3u8
 #EXTINF:0 tvg-rec="0",FreeNews AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15212/index.m3u8
-#EXTINF:0 tvg-rec="0",Arma TV AM
+#EXTINF:0 tvg-rec="0",Tsayg TV AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15214/index.m3u8
 #EXTINF:0 tvg-rec="0",5TV Plus HD AM
@@ -8480,22 +8354,22 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15490/index.m3u8
 #EXTINF:0 tvg-rec="0",1 Lurer HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15491/index.m3u8
-#EXTINF:0 tvg-rec="0",Kotayk TV AM
+#EXTINF:0 tvg-rec="0",Syunik TV AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15498/index.m3u8
-#EXTINF:0 tvg-rec="0",Tsayg TV HD AM
+#EXTINF:0 tvg-rec="0",Delta TV HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15499/index.m3u8
-#EXTINF:0 tvg-rec="0",Lori TV HD AM
+#EXTINF:0 tvg-rec="0",ATV Kinoman HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15500/index.m3u8
 #EXTINF:0 tvg-rec="0",FreeNews HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15501/index.m3u8
-#EXTINF:0 tvg-rec="0",Armount TV HD AM
+#EXTINF:0 tvg-rec="0",ArmToon AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15502/index.m3u8
-#EXTINF:0 tvg-rec="0",Fortuna TV HD AM
+#EXTINF:0 tvg-rec="0",Tavush TV HD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15503/index.m3u8
 #EXTINF:0 tvg-rec="0",ArmToon HD AM
@@ -8522,18 +8396,18 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32196/index.m3u8
 #EXTINF:0 tvg-rec="0",1 Lurer FHD AM
 #EXTGRP:Հայկական
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32313/index.m3u8
-#EXTINF:0 tvg-rec="0",ICTV 2 HD UA
-#EXTGRP:українські
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15235/index.m3u8
-#EXTINF:0 tvg-rec="0",НТН HD UA
-#EXTGRP:українські
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15011/index.m3u8
-#EXTINF:0 tvg-rec="0",Сфера ТВ HD UA
-#EXTGRP:українські
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15008/index.m3u8
 #EXTINF:0 tvg-rec="0",Kinogrande HD UA
 #EXTGRP:українські
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15007/index.m3u8
+#EXTINF:0 tvg-rec="0",Сфера ТВ HD UA
+#EXTGRP:українські
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15008/index.m3u8
+#EXTINF:0 tvg-rec="0",НТН HD UA
+#EXTGRP:українські
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15011/index.m3u8
+#EXTINF:0 tvg-rec="0",ICTV 2 HD UA
+#EXTGRP:українські
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15235/index.m3u8
 #EXTINF:0 tvg-rec="3",5 Канал UA
 #EXTGRP:українські
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/945/index.m3u8
@@ -8585,9 +8459,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/987/index.m3u8
 #EXTINF:0 tvg-rec="3",Star Cinema HD UA
 #EXTGRP:українські
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/992/index.m3u8
-#EXTINF:0 tvg-rec="3",Чернiвецький Промiнь UA
-#EXTGRP:українські
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1004/index.m3u8
 #EXTINF:0 tvg-rec="3",Перший UA
 #EXTGRP:українські
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1016/index.m3u8
@@ -8600,7 +8471,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1047/index.m3u8
 #EXTINF:0 tvg-rec="3",Рибалка FHD UA
 #EXTGRP:українські
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1058/index.m3u8
-#EXTINF:0 tvg-rec="3",1+1 International UA
+#EXTINF:0 tvg-rec="3",1+1 Марафон UA
 #EXTGRP:українські
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/994/index.m3u8
 #EXTINF:0 tvg-rec="3",2+2 UA
@@ -8672,7 +8543,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6313/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport 2 UA
 #EXTGRP:українські
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6314/index.m3u8
-#EXTINF:0 tvg-rec="3",1+1 Марафон UA
+#EXTINF:0 tvg-rec="3",1+1 International UA
 #EXTGRP:українські
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6317/index.m3u8
 #EXTINF:0 tvg-rec="3",Еспресо HD UA
@@ -8960,15 +8831,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32123/index.m3u8
 #EXTINF:0 tvg-rec="3",Food Network HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1107/index.m3u8
-#EXTINF:0 tvg-rec="3",ION Television HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/901/index.m3u8
-#EXTINF:0 tvg-rec="3",NYCTV Life HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/902/index.m3u8
-#EXTINF:0 tvg-rec="3",CBS New York HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/903/index.m3u8
 #EXTINF:0 tvg-rec="3",Hallmark Mystery HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1075/index.m3u8
@@ -8987,13 +8849,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1083/index.m3u8
 #EXTINF:0 tvg-rec="3",HGTV HD
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1084/index.m3u8
-#EXTINF:0 tvg-rec="3",truTV HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1085/index.m3u8
-#EXTINF:0 tvg-rec="3",MAVTV HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1074/index.m3u8
-#EXTINF:0 tvg-rec="3",ABC HD US
+#EXTINF:0 tvg-rec="3",ABC7 HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1087/index.m3u8
 #EXTINF:0 tvg-rec="3",Fox 5 WNYW HD US
@@ -9002,12 +8858,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1086/index.m3u8
 #EXTINF:0 tvg-rec="3",MY9 New Jersey HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1088/index.m3u8
-#EXTINF:0 tvg-rec="3",MotorTrend HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1091/index.m3u8
-#EXTINF:0 tvg-rec="3",BBC America HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1092/index.m3u8
 #EXTINF:0 tvg-rec="3",WPIX HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1090/index.m3u8
@@ -9086,9 +8936,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6433/index.m3u8
 #EXTINF:0 tvg-rec="0",OMNI.2 HD CA
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6434/index.m3u8
-#EXTINF:0 tvg-rec="0",FX HD CA
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6435/index.m3u8
 #EXTINF:0 tvg-rec="0",CTV 2 HD CA
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6437/index.m3u8
@@ -9125,9 +8972,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6449/index.m3u8
 #EXTINF:0 tvg-rec="0",CTV Drama HD CA
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6450/index.m3u8
-#EXTINF:0 tvg-rec="0",Slice HD CA
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6451/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery Channel HD CA
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6452/index.m3u8
@@ -9149,9 +8993,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6459/index.m3u8
 #EXTINF:0 tvg-rec="0",Sportsnet 360 HD CA
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6462/index.m3u8
-#EXTINF:0 tvg-rec="0",Flavour Network HD CA
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6464/index.m3u8
 #EXTINF:0 tvg-rec="0",BNN Bloomberg HD CA
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6465/index.m3u8
@@ -9164,7 +9005,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6468/index.m3u8
 #EXTINF:0 tvg-rec="0",E! HD CA
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6469/index.m3u8
-#EXTINF:0 tvg-rec="0",FXX HDTV CA
+#EXTINF:0 tvg-rec="0",FX HD CA
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6470/index.m3u8
 #EXTINF:0 tvg-rec="0",Treehouse HD CA
@@ -9236,7 +9077,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6502/index.m3u8
 #EXTINF:0 tvg-rec="0",Disney XD CA
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6503/index.m3u8
-#EXTINF:0 tvg-rec="0",Nickelodeon HR
+#EXTINF:0 tvg-rec="0",Nickelodeon CA
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6504/index.m3u8
 #EXTINF:0 tvg-rec="0",Crime + Investigation CA
@@ -9413,18 +9254,12 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/30122/index.m3u8
 #EXTINF:0 tvg-rec="0",Movieplex HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/30142/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Arizona HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31001/index.m3u8
 #EXTINF:0 tvg-rec="0",Altitude Sports HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31000/index.m3u8
 #EXTINF:0 tvg-rec="0",MTV2 HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31002/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Florida HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31005/index.m3u8
 #EXTINF:0 tvg-rec="0",Newsmax TV HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31009/index.m3u8
@@ -9434,25 +9269,19 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31011/index.m3u8
 #EXTINF:0 tvg-rec="0",NFL RedZone HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31012/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31013/index.m3u8
 #EXTINF:0 tvg-rec="0",Nick Jr. HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31014/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports New Orleans HD US
+#EXTINF:0 tvg-rec="0",WGNO-TV (ABC) US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31015/index.m3u8
 #EXTINF:0 tvg-rec="0",NickToons HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31016/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports North HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31017/index.m3u8
 #EXTINF:0 tvg-rec="0",Outdoor Channel US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31018/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio HD US
+#EXTINF:0 tvg-rec="0",Sportsnet Pittsburgh US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31019/index.m3u8
 #EXTINF:0 tvg-rec="0",Ovation TV HD US
@@ -9464,42 +9293,12 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31021/index.m3u8
 #EXTINF:0 tvg-rec="0",Paramount Network HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31029/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio Cleveland HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31030/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports San Diego HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31032/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports SoCal HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31034/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Southeast HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31035/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31036/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest Plus HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31039/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Sun HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31041/index.m3u8
 #EXTINF:0 tvg-rec="0",Retroplex HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31042/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports West HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31043/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports West Plus HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31044/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Wisconsin HD US
+#EXTINF:0 tvg-rec="0",Advertising History HD US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31046/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Wisconsin Plus HD US
-#EXTGRP:USA
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31047/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports US
 #EXTGRP:USA
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31048/index.m3u8
@@ -9557,7 +9356,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32073/index.m3u8
 #EXTINF:0 tvg-rec="0",Беларусь 24 HD BY
 #EXTGRP:беларускія
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14011/index.m3u8
-#EXTINF:0 tvg-rec="3",Беларусь 24 BY
+#EXTINF:0 tvg-rec="3",Соблазн
 #EXTGRP:беларускія
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/1061/index.m3u8
 #EXTINF:0 tvg-rec="3",Беларусь 1 BY
@@ -9737,7 +9536,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7143/index.m3u8
 #EXTINF:0 tvg-rec="3",1TV HD GE
 #EXTGRP:ქართული
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7144/index.m3u8
-#EXTINF:0 tvg-rec="3",Agrogaremo TV HD GE
+#EXTINF:0 tvg-rec="3",Agro TV HD GE
 #EXTGRP:ქართული
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7147/index.m3u8
 #EXTINF:0 tvg-rec="3",Starvision HD GE
@@ -9752,7 +9551,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7150/index.m3u8
 #EXTINF:0 tvg-rec="3",Enki Benki GE
 #EXTGRP:ქართული
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7151/index.m3u8
-#EXTINF:0 tvg-rec="3",Ertsulovneba HD GE
+#EXTINF:0 tvg-rec="3",Ertsulovneba GE
 #EXTGRP:ქართული
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7152/index.m3u8
 #EXTINF:0 tvg-rec="3",Formula HD GE
@@ -9764,10 +9563,10 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7155/index.m3u8
 #EXTINF:0 tvg-rec="3",Imedi FHD GE
 #EXTGRP:ქართული
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7156/index.m3u8
-#EXTINF:0 tvg-rec="3",Marao HD GE
+#EXTINF:0 tvg-rec="3",Marao GE
 #EXTGRP:ქართული
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7161/index.m3u8
-#EXTINF:0 tvg-rec="3",Palitra News HD GE
+#EXTINF:0 tvg-rec="3",Palitra News GE
 #EXTGRP:ქართული
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7165/index.m3u8
 #EXTINF:0 tvg-rec="3",Royal Channel HD GE
@@ -9812,12 +9611,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19336/index.m3u8
 #EXTINF:0 tvg-rec="0",Agro TV GE
 #EXTGRP:ქართული
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19338/index.m3u8
-#EXTINF:0 tvg-rec="0",Artarea GE
-#EXTGRP:ქართული
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20056/index.m3u8
-#EXTINF:0 tvg-rec="0",Prime TV GE
-#EXTGRP:ქართული
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20057/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Sport 1 FHD GE
 #EXTGRP:ქართული
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/20144/index.m3u8
@@ -9848,39 +9641,39 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/32204/index.m3u8
 #EXTINF:0 tvg-rec="3",Qazaqstan KZ
 #EXTGRP:қазақстан
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2210/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
-#EXTGRP:қазақстан
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16026/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD KZ
-#EXTGRP:қазақстан
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16025/index.m3u8
-#EXTINF:0 tvg-rec="0",Qadam TV KZ
-#EXTGRP:қазақстан
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15005/index.m3u8
-#EXTINF:0 tvg-rec="0",Ассамблея ТВ KZ
-#EXTGRP:қазақстан
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15004/index.m3u8
-#EXTINF:0 tvg-rec="0",Айгак KZ
-#EXTGRP:қазақстан
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15002/index.m3u8
-#EXTINF:0 tvg-rec="0",Ontustik KZ
-#EXTGRP:қазақстан
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15001/index.m3u8
-#EXTINF:0 tvg-rec="0",Otyrar KZ
-#EXTGRP:қазақстан
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14237/index.m3u8
-#EXTINF:0 tvg-rec="0",Qyzylorda KZ
-#EXTGRP:қазақстан
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14233/index.m3u8
-#EXTINF:0 tvg-rec="0",Jambyl KZ
-#EXTGRP:қазақстан
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14232/index.m3u8
-#EXTINF:0 tvg-rec="0",Ulytau KZ
-#EXTGRP:қазақстан
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14231/index.m3u8
 #EXTINF:0 tvg-rec="0",Aqsham TV KZ
 #EXTGRP:қазақстан
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14223/index.m3u8
+#EXTINF:0 tvg-rec="0",Ulytau KZ
+#EXTGRP:қазақстан
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14231/index.m3u8
+#EXTINF:0 tvg-rec="0",Jambyl KZ
+#EXTGRP:қазақстан
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14232/index.m3u8
+#EXTINF:0 tvg-rec="0",Qyzylorda KZ
+#EXTGRP:қазақстан
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14233/index.m3u8
+#EXTINF:0 tvg-rec="0",Otyrar KZ
+#EXTGRP:қазақстан
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/14237/index.m3u8
+#EXTINF:0 tvg-rec="0",Ontustik KZ
+#EXTGRP:қазақстан
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15001/index.m3u8
+#EXTINF:0 tvg-rec="0",Айгак KZ
+#EXTGRP:қазақстан
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15002/index.m3u8
+#EXTINF:0 tvg-rec="0",Ассамблея ТВ KZ
+#EXTGRP:қазақстан
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15004/index.m3u8
+#EXTINF:0 tvg-rec="0",Qadam TV KZ
+#EXTGRP:қазақстан
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/15005/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD KZ
+#EXTGRP:қазақстан
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16025/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:қазақстан
+http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/16026/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК HD KZ
 #EXTGRP:қазақстан
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2211/index.m3u8
@@ -10094,7 +9887,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2446/index.m3u8
 #EXTINF:0 tvg-rec="3",One TV MD
 #EXTGRP:moldovenească
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2451/index.m3u8
-#EXTINF:0 tvg-rec="3",NTS TV MD
+#EXTINF:0 tvg-rec="3",NTS MD
 #EXTGRP:moldovenească
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2452/index.m3u8
 #EXTINF:0 tvg-rec="3",TV8 MD
@@ -10400,7 +10193,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7046/index.m3u8
 #EXTINF:0 tvg-rec="3",Trinitas TV RO
 #EXTGRP:moldovenească
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7047/index.m3u8
-#EXTINF:0 tvg-rec="3",DocuBox HD RO
+#EXTINF:0 tvg-rec="3",Nova Documentary HD RO
 #EXTGRP:moldovenească
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/7049/index.m3u8
 #EXTINF:0 tvg-rec="3",Fashion TV RO
@@ -10472,7 +10265,7 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31894/index.m3u8
 #EXTINF:0 tvg-rec="0",Premiera TV MD
 #EXTGRP:moldovenească
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31895/index.m3u8
-#EXTINF:0 tvg-rec="0",NTS MD
+#EXTINF:0 tvg-rec="0",Columna TV MD
 #EXTGRP:moldovenească
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31898/index.m3u8
 #EXTINF:0 tvg-rec="0",Popas TV MD
@@ -10523,9 +10316,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2266/index.m3u8
 #EXTINF:0 tvg-rec="3",NR1 Turk HD TR
 #EXTGRP:türk
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2267/index.m3u8
-#EXTINF:0 tvg-rec="3",Star TV TR
-#EXTGRP:türk
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2274/index.m3u8
 #EXTINF:0 tvg-rec="0",TRT Turk HD TR
 #EXTGRP:türk
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2281/index.m3u8
@@ -10568,9 +10358,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2304/index.m3u8
 #EXTINF:0 tvg-rec="3",CNN Turk HD TR
 #EXTGRP:türk
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2305/index.m3u8
-#EXTINF:0 tvg-rec="3",Teve2 FHD TR
-#EXTGRP:türk
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2306/index.m3u8
 #EXTINF:0 tvg-rec="3",Show TV HD TR
 #EXTGRP:türk
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/2307/index.m3u8
@@ -10667,9 +10454,6 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6789/index.m3u8
 #EXTINF:0 tvg-rec="3",Lalegul TV TR
 #EXTGRP:türk
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6790/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 2000 TR
-#EXTGRP:türk
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6791/index.m3u8
 #EXTINF:0 tvg-rec="3",Meltem TV TR
 #EXTGRP:türk
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6792/index.m3u8
@@ -10718,21 +10502,12 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6824/index.m3u8
 #EXTINF:0 tvg-rec="3",S Sport HD TR
 #EXTGRP:türk
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6825/index.m3u8
-#EXTINF:0 tvg-rec="3",Sports TV HD TR
-#EXTGRP:türk
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6828/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 1 HD TR
 #EXTGRP:türk
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6829/index.m3u8
-#EXTINF:0 tvg-rec="3",A Spor TR
-#EXTGRP:türk
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6832/index.m3u8
 #EXTINF:0 tvg-rec="3",TJK TV HD TR
 #EXTGRP:türk
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6837/index.m3u8
-#EXTINF:0 tvg-rec="3",NBA TV HD TR
-#EXTGRP:türk
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6838/index.m3u8
 #EXTINF:0 tvg-rec="3",Idman TV HD TR
 #EXTGRP:türk
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/6840/index.m3u8
@@ -11393,10 +11168,10 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/31449/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 2 HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/290/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Игра HD orig
+#EXTINF:0 tvg-rec="7",Матч! Игра HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9034/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Игра HD 50 orig
+#EXTINF:0 tvg-rec="7",Матч! Игра HD 50 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9032/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал FHD
@@ -11507,829 +11282,817 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/5081/index.m3u8
 #EXTINF:0 tvg-rec="3",Дом Кино Премиум HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/5082/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС HD orig
+#EXTINF:0 tvg-rec="7",СТС HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9000/index.m3u8
-#EXTINF:0 tvg-rec="3",Точка.РФ HD orig
+#EXTINF:0 tvg-rec="7",Точка.РФ HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9008/index.m3u8
-#EXTINF:0 tvg-rec="3",Luxury HD orig
+#EXTINF:0 tvg-rec="7",Luxury HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9038/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый космический HD orig
+#EXTINF:0 tvg-rec="7",Первый космический HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9049/index.m3u8
-#EXTINF:0 tvg-rec="3",1HD Music Television HD orig
+#EXTINF:0 tvg-rec="7",1HD Music Television HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9001/index.m3u8
-#EXTINF:0 tvg-rec="3",KHL Prime HD orig
+#EXTINF:0 tvg-rec="7",KHL Prime HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9003/index.m3u8
-#EXTINF:0 tvg-rec="3",Bridge Deluxe HD orig
+#EXTINF:0 tvg-rec="7",Bridge Deluxe HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9012/index.m3u8
-#EXTINF:0 tvg-rec="3",iConcerts HD orig
+#EXTINF:0 tvg-rec="7",Stingray iConcerts HD
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9056/index.m3u8
-#EXTINF:0 tvg-rec="3",AIVA TV HD orig
+#EXTINF:0 tvg-rec="7",AIVA TV HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9085/index.m3u8
-#EXTINF:0 tvg-rec="3",РЕН ТВ HD orig
+#EXTINF:0 tvg-rec="7",РЕН ТВ HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9002/index.m3u8
-#EXTINF:0 tvg-rec="3",Шокирующее HD orig
+#EXTINF:0 tvg-rec="7",Шокирующее HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9004/index.m3u8
-#EXTINF:0 tvg-rec="3",Комедийное HD orig
+#EXTINF:0 tvg-rec="7",Комедийное HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9005/index.m3u8
-#EXTINF:0 tvg-rec="3",Hollywood HD orig
+#EXTINF:0 tvg-rec="7",Hollywood HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9017/index.m3u8
-#EXTINF:0 tvg-rec="3",FX HD orig
+#EXTINF:0 tvg-rec="7",FX HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9018/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинопремьера HD orig
+#EXTINF:0 tvg-rec="7",Кинопремьера HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9020/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Premium HD orig
+#EXTINF:0 tvg-rec="7",Amedia Premium HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9022/index.m3u8
-#EXTINF:0 tvg-rec="3",Киноужас HD orig
+#EXTINF:0 tvg-rec="7",Киноужас HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9033/index.m3u8
-#EXTINF:0 tvg-rec="3",.red HD orig
+#EXTINF:0 tvg-rec="7",.red HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9035/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский роман HD orig
+#EXTINF:0 tvg-rec="7",Русский роман HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9041/index.m3u8
-#EXTINF:0 tvg-rec="3",Остросюжетное HD orig
+#EXTINF:0 tvg-rec="7",Остросюжетное HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9044/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше HD
+#EXTINF:0 tvg-rec="7",Наше HD
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9046/index.m3u8
-#EXTINF:0 tvg-rec="3",Кино ТВ HD orig
+#EXTINF:0 tvg-rec="7",Кино ТВ HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9051/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD orig
+#EXTINF:0 tvg-rec="7",Viju TV1000 Action HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9057/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 HD orig
+#EXTINF:0 tvg-rec="7",Viju TV1000 HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9058/index.m3u8
 #EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9059/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia 1 HD orig
+#EXTINF:0 tvg-rec="7",Amedia 1 HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9069/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Hit HD orig
+#EXTINF:0 tvg-rec="7",Amedia Hit HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9070/index.m3u8
-#EXTINF:0 tvg-rec="3",Еврокино HD orig
+#EXTINF:0 tvg-rec="7",Еврокино HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9078/index.m3u8
-#EXTINF:0 tvg-rec="3",Иллюзион+ HD orig
+#EXTINF:0 tvg-rec="7",Иллюзион+ HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9079/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский иллюзион HD orig
+#EXTINF:0 tvg-rec="7",Русский иллюзион HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9080/index.m3u8
-#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD orig
+#EXTINF:0 tvg-rec="7",Наш Кинопоказ HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9086/index.m3u8
-#EXTINF:0 tvg-rec="3",Блокбастер HD orig
+#EXTINF:0 tvg-rec="7",Блокбастер HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9087/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше Мужское HD orig
+#EXTINF:0 tvg-rec="7",Наше Мужское HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9088/index.m3u8
-#EXTINF:0 tvg-rec="3",Про Любовь HD orig
+#EXTINF:0 tvg-rec="7",Про Любовь HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9089/index.m3u8
-#EXTINF:0 tvg-rec="3",Хит HD orig
+#EXTINF:0 tvg-rec="7",Хит HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9090/index.m3u8
-#EXTINF:0 tvg-rec="3",Камеди HD orig
+#EXTINF:0 tvg-rec="7",Камеди HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9091/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинопоказ HD orig
+#EXTINF:0 tvg-rec="7",Кинопоказ HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9092/index.m3u8
-#EXTINF:0 tvg-rec="3",Приключения HD orig
+#EXTINF:0 tvg-rec="7",Приключения HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9007/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel HD orig
+#EXTINF:0 tvg-rec="7",Discovery Channel HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9011/index.m3u8
-#EXTINF:0 tvg-rec="3",History 2 HD orig
+#EXTINF:0 tvg-rec="7",History 2 HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9013/index.m3u8
-#EXTINF:0 tvg-rec="3",Travel+Adventure HD orig
+#EXTINF:0 tvg-rec="7",Travel+Adventure HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9019/index.m3u8
-#EXTINF:0 tvg-rec="3",RTG HD orig
+#EXTINF:0 tvg-rec="7",RTG HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9021/index.m3u8
-#EXTINF:0 tvg-rec="3",TLC HD orig
+#EXTINF:0 tvg-rec="7",TLC HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9024/index.m3u8
-#EXTINF:0 tvg-rec="3",Travel Channel HD orig
+#EXTINF:0 tvg-rec="7",Travel Channel HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9025/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Planet HD
+#EXTINF:0 tvg-rec="7",Viju+ Planet HD
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9027/index.m3u8
-#EXTINF:0 tvg-rec="3",Живая природа HD orig
+#EXTINF:0 tvg-rec="7",Живая природа HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9039/index.m3u8
-#EXTINF:0 tvg-rec="3",Охотник и Рыболов HD orig
+#EXTINF:0 tvg-rec="7",Охотник и Рыболов HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9043/index.m3u8
-#EXTINF:0 tvg-rec="3",В мире животных HD orig
+#EXTINF:0 tvg-rec="7",В мире животных HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9048/index.m3u8
-#EXTINF:0 tvg-rec="3",Моя Планета HD orig
+#EXTINF:0 tvg-rec="7",Моя Планета HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9050/index.m3u8
-#EXTINF:0 tvg-rec="3",Investigation Discovery HD orig
+#EXTINF:0 tvg-rec="7",Investigation Discovery HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9054/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju History HD orig
+#EXTINF:0 tvg-rec="7",Viju History HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9060/index.m3u8
-#EXTINF:0 tvg-rec="3",Глазами Туриста HD orig
+#EXTINF:0 tvg-rec="7",Глазами Туриста HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9061/index.m3u8
-#EXTINF:0 tvg-rec="3",Трофей UA
+#EXTINF:0 tvg-rec="7",Трофей UA
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9076/index.m3u8
-#EXTINF:0 tvg-rec="3",Дикая охота HD orig
+#EXTINF:0 tvg-rec="7",Дикая охота HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9081/index.m3u8
-#EXTINF:0 tvg-rec="3",Дикая рыбалка HD orig
+#EXTINF:0 tvg-rec="7",Дикая рыбалка HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9082/index.m3u8
-#EXTINF:0 tvg-rec="3",Наука HD orig
+#EXTINF:0 tvg-rec="7",Наука HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9084/index.m3u8
-#EXTINF:0 tvg-rec="3",History HD orig
+#EXTINF:0 tvg-rec="7",History HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9023/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju Explore HD orig
+#EXTINF:0 tvg-rec="7",Viju Explore HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9075/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Арена HD orig
+#EXTINF:0 tvg-rec="7",Матч! Арена HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9010/index.m3u8
-#EXTINF:0 tvg-rec="3",Russian Extreme HD orig
+#EXTINF:0 tvg-rec="7",Russian Extreme HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9042/index.m3u8
-#EXTINF:0 tvg-rec="3",Легенда
+#EXTINF:0 tvg-rec="7",Легенда
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9055/index.m3u8
-#EXTINF:0 tvg-rec="3",Старт HD orig
+#EXTINF:0 tvg-rec="7",Старт HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9083/index.m3u8
-#EXTINF:0 tvg-rec="3",Nickelodeon HD orig
+#EXTINF:0 tvg-rec="7",Nickelodeon HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9015/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ HD orig
+#EXTINF:0 tvg-rec="7",НТВ HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9028/index.m3u8
-#EXTINF:0 tvg-rec="3",360 HD orig
+#EXTINF:0 tvg-rec="7",360 HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9036/index.m3u8
-#EXTINF:0 tvg-rec="3",Мульт HD orig
+#EXTINF:0 tvg-rec="7",Мульт HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9037/index.m3u8
-#EXTINF:0 tvg-rec="3",Детский HD orig
+#EXTINF:0 tvg-rec="7",Детский HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9077/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС Kids HD orig
+#EXTINF:0 tvg-rec="7",СТС Kids HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9063/index.m3u8
-#EXTINF:0 tvg-rec="3",Curiosity Stream HD orig
+#EXTINF:0 tvg-rec="7",Curiosity Stream HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9072/index.m3u8
-#EXTINF:0 tvg-rec="3",Еспресо FHD UA
+#EXTINF:0 tvg-rec="7",Еспресо FHD UA
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9073/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВ Центр orig
+#EXTINF:0 tvg-rec="7",ТВ Центр orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9095/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятый канал orig
+#EXTINF:0 tvg-rec="7",Пятый канал orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9096/index.m3u8
-#EXTINF:0 tvg-rec="3",Звезда orig
+#EXTINF:0 tvg-rec="7",Звезда orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9098/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС Love orig
+#EXTINF:0 tvg-rec="7",СТС Love orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9099/index.m3u8
-#EXTINF:0 tvg-rec="3",ОТР orig
+#EXTINF:0 tvg-rec="7",ОТР orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9100/index.m3u8
-#EXTINF:0 tvg-rec="3",Че! orig
+#EXTINF:0 tvg-rec="7",Че! orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9101/index.m3u8
-#EXTINF:0 tvg-rec="3",RTVi HD orig
+#EXTINF:0 tvg-rec="7",RTVi HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9102/index.m3u8
-#EXTINF:0 tvg-rec="3",Суббота! orig
+#EXTINF:0 tvg-rec="7",Суббота! orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9103/index.m3u8
-#EXTINF:0 tvg-rec="3",Домашний orig
+#EXTINF:0 tvg-rec="7",Домашний orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9104/index.m3u8
-#EXTINF:0 tvg-rec="3",Ностальгия orig
+#EXTINF:0 tvg-rec="7",Ностальгия orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9106/index.m3u8
-#EXTINF:0 tvg-rec="3",Ю ТВ orig
+#EXTINF:0 tvg-rec="7",Ю ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9107/index.m3u8
-#EXTINF:0 tvg-rec="3",КВН ТВ orig
+#EXTINF:0 tvg-rec="7",КВН ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9108/index.m3u8
-#EXTINF:0 tvg-rec="3",Сарафан orig
+#EXTINF:0 tvg-rec="7",Сарафан orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9109/index.m3u8
-#EXTINF:0 tvg-rec="3",Точка ТВ orig
+#EXTINF:0 tvg-rec="7",Точка ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9110/index.m3u8
-#EXTINF:0 tvg-rec="3",СПАС orig
+#EXTINF:0 tvg-rec="7",СПАС orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9111/index.m3u8
-#EXTINF:0 tvg-rec="3",Союз orig
+#EXTINF:0 tvg-rec="7",Союз orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9112/index.m3u8
-#EXTINF:0 tvg-rec="3",Здоровое ТВ orig
+#EXTINF:0 tvg-rec="7",Здоровое ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9113/index.m3u8
-#EXTINF:0 tvg-rec="3",Психология orig
+#EXTINF:0 tvg-rec="7",Психология orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9114/index.m3u8
-#EXTINF:0 tvg-rec="3",Успех orig
+#EXTINF:0 tvg-rec="7",Успех orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9115/index.m3u8
-#EXTINF:0 tvg-rec="3",Кто есть кто orig
+#EXTINF:0 tvg-rec="7",Кто есть кто orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9116/index.m3u8
-#EXTINF:0 tvg-rec="3",Открытый мир orig
+#EXTINF:0 tvg-rec="7",Открытый мир orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9117/index.m3u8
-#EXTINF:0 tvg-rec="3",Красная линия orig
+#EXTINF:0 tvg-rec="7",Красная линия orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9119/index.m3u8
-#EXTINF:0 tvg-rec="3",ЛДПР ТВ orig
+#EXTINF:0 tvg-rec="7",ЛДПР ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9120/index.m3u8
-#EXTINF:0 tvg-rec="3",Хузур ТВ HD orig
+#EXTINF:0 tvg-rec="7",Хузур ТВ HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9121/index.m3u8
-#EXTINF:0 tvg-rec="3",Вместе-РФ orig
+#EXTINF:0 tvg-rec="7",Вместе-РФ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9124/index.m3u8
-#EXTINF:0 tvg-rec="3",.sci-fi orig
+#EXTINF:0 tvg-rec="7",.sci-fi orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9125/index.m3u8
-#EXTINF:0 tvg-rec="3",Киномикс orig
+#EXTINF:0 tvg-rec="7",Киномикс orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9126/index.m3u8
-#EXTINF:0 tvg-rec="3",Родное Кино orig
+#EXTINF:0 tvg-rec="7",Родное Кино orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9127/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинохит orig
+#EXTINF:0 tvg-rec="7",Кинохит orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9128/index.m3u8
 #EXTINF:0 tvg-rec="0",Amedia 2 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9129/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВ 21 orig
+#EXTINF:0 tvg-rec="7",ТВ 21 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9130/index.m3u8
-#EXTINF:0 tvg-rec="3",Индийское Кино orig
+#EXTINF:0 tvg-rec="7",Индийское Кино orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9131/index.m3u8
-#EXTINF:0 tvg-rec="3",Киносерия orig
+#EXTINF:0 tvg-rec="7",Киносерия orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9132/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский иллюзион orig
+#EXTINF:0 tvg-rec="7",Русский иллюзион orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9133/index.m3u8
-#EXTINF:0 tvg-rec="3",Еврокино orig
+#EXTINF:0 tvg-rec="7",Еврокино orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9134/index.m3u8
-#EXTINF:0 tvg-rec="3",Дом Кино orig
+#EXTINF:0 tvg-rec="7",Дом Кино orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9136/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia 1 orig
+#EXTINF:0 tvg-rec="7",Amedia 1 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9137/index.m3u8
-#EXTINF:0 tvg-rec="3",Мужское Кино HD orig
+#EXTINF:0 tvg-rec="7",Мужское Кино HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9138/index.m3u8
-#EXTINF:0 tvg-rec="3",2x2 orig
+#EXTINF:0 tvg-rec="7",2x2 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9139/index.m3u8
-#EXTINF:0 tvg-rec="3",.black orig
+#EXTINF:0 tvg-rec="7",.black orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9140/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский бестселлер orig
+#EXTINF:0 tvg-rec="7",Русский бестселлер orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9141/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский детектив orig
+#EXTINF:0 tvg-rec="7",Русский детектив orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9142/index.m3u8
-#EXTINF:0 tvg-rec="3",Любимое Кино orig
+#EXTINF:0 tvg-rec="7",Любимое Кино orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9143/index.m3u8
-#EXTINF:0 tvg-rec="3",Комедия orig
+#EXTINF:0 tvg-rec="7",Комедия orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9144/index.m3u8
-#EXTINF:0 tvg-rec="3",FAN orig
+#EXTINF:0 tvg-rec="7",FAN orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9145/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Хит orig
+#EXTINF:0 tvg-rec="7",НТВ Хит orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9146/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Сериал orig
+#EXTINF:0 tvg-rec="7",НТВ Сериал orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9147/index.m3u8
-#EXTINF:0 tvg-rec="3",НСТ orig
+#EXTINF:0 tvg-rec="7",НСТ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9148/index.m3u8
-#EXTINF:0 tvg-rec="3",Индия orig
+#EXTINF:0 tvg-rec="7",Индия orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9149/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир Сериала orig
+#EXTINF:0 tvg-rec="7",Мир Сериала orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9151/index.m3u8
-#EXTINF:0 tvg-rec="3",Ретро orig
+#EXTINF:0 tvg-rec="7",Ретро orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9152/index.m3u8
-#EXTINF:0 tvg-rec="3",Феникс плюс Кино orig
+#EXTINF:0 tvg-rec="7",Феникс плюс Кино orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9153/index.m3u8
-#EXTINF:0 tvg-rec="3",Киноман orig
+#EXTINF:0 tvg-rec="7",Киноман orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9154/index.m3u8
-#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция orig
+#EXTINF:0 tvg-rec="7",Мосфильм. Золотая коллекция orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9156/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Страна orig
+#EXTINF:0 tvg-rec="7",Матч! Страна orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9157/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Боец orig
+#EXTINF:0 tvg-rec="7",Матч! Боец orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9159/index.m3u8
-#EXTINF:0 tvg-rec="3",Extreme Sports orig
+#EXTINF:0 tvg-rec="7",Extreme Sports orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9160/index.m3u8
-#EXTINF:0 tvg-rec="3",MMA-TV.com orig
+#EXTINF:0 tvg-rec="7",MMA-TV.com orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9161/index.m3u8
-#EXTINF:0 tvg-rec="3",Бокс ТВ orig
+#EXTINF:0 tvg-rec="7",Бокс ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9162/index.m3u8
-#EXTINF:0 tvg-rec="3",Драйв orig
+#EXTINF:0 tvg-rec="7",Драйв orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9163/index.m3u8
-#EXTINF:0 tvg-rec="3",ЖИВИ! orig
+#EXTINF:0 tvg-rec="7",ЖИВИ! orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9164/index.m3u8
-#EXTINF:0 tvg-rec="3",Жар Птица orig
+#EXTINF:0 tvg-rec="7",Жар Птица orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9165/index.m3u8
-#EXTINF:0 tvg-rec="3",Музыка Первого orig
+#EXTINF:0 tvg-rec="7",Музыка Первого orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9166/index.m3u8
-#EXTINF:0 tvg-rec="3",Music Box Russia orig
+#EXTINF:0 tvg-rec="7",Music Box Russia orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9168/index.m3u8
-#EXTINF:0 tvg-rec="3",МУЗ-ТВ orig
+#EXTINF:0 tvg-rec="7",МУЗ-ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9169/index.m3u8
-#EXTINF:0 tvg-rec="3",МузСоюз orig
+#EXTINF:0 tvg-rec="7",МузСоюз orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9171/index.m3u8
-#EXTINF:0 tvg-rec="3",Шансон ТВ orig
+#EXTINF:0 tvg-rec="7",Шансон ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9173/index.m3u8
-#EXTINF:0 tvg-rec="3",Музыка Live orig
+#EXTINF:0 tvg-rec="7",Музыка Live orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9174/index.m3u8
-#EXTINF:0 tvg-rec="3",MCM Top Russia orig
+#EXTINF:0 tvg-rec="7",MCM Top Russia orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9175/index.m3u8
 #EXTINF:0 tvg-rec="0",Bridge Русский Хит orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9176/index.m3u8
-#EXTINF:0 tvg-rec="3",Жара orig
+#EXTINF:0 tvg-rec="7",Жара orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9177/index.m3u8
-#EXTINF:0 tvg-rec="3",FON Music orig
+#EXTINF:0 tvg-rec="7",FON Music orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9178/index.m3u8
-#EXTINF:0 tvg-rec="3",Gulli Girl orig
-#EXTGRP:HD Orig
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9181/index.m3u8
-#EXTINF:0 tvg-rec="3",Tiji TV orig
-#EXTGRP:HD Orig
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9180/index.m3u8
-#EXTINF:0 tvg-rec="3",Nick Jr. orig
+#EXTINF:0 tvg-rec="7",Nick Jr. orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9182/index.m3u8
-#EXTINF:0 tvg-rec="3",Детский мир orig
+#EXTINF:0 tvg-rec="7",Детский мир orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9184/index.m3u8
-#EXTINF:0 tvg-rec="3",JimJam orig
+#EXTINF:0 tvg-rec="7",JimJam orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9185/index.m3u8
-#EXTINF:0 tvg-rec="3",Карусель orig
+#EXTINF:0 tvg-rec="7",Карусель orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9186/index.m3u8
-#EXTINF:0 tvg-rec="3",Ani orig
+#EXTINF:0 tvg-rec="7",Ani orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9187/index.m3u8
-#EXTINF:0 tvg-rec="3",Мульт orig
+#EXTINF:0 tvg-rec="7",Мульт orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9188/index.m3u8
-#EXTINF:0 tvg-rec="3",Cartoonito HD orig
+#EXTINF:0 tvg-rec="7",Cartoonito HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9189/index.m3u8
-#EXTINF:0 tvg-rec="3",О! orig
+#EXTINF:0 tvg-rec="7",О! orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9190/index.m3u8
-#EXTINF:0 tvg-rec="3",Детский HD
+#EXTINF:0 tvg-rec="7",Детский HD
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9191/index.m3u8
-#EXTINF:0 tvg-rec="3",Детский мир HD
+#EXTINF:0 tvg-rec="7",Детский мир HD
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9192/index.m3u8
-#EXTINF:0 tvg-rec="3",СуперГерои orig
+#EXTINF:0 tvg-rec="7",СуперГерои orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9193/index.m3u8
-#EXTINF:0 tvg-rec="3",Радость моя orig
+#EXTINF:0 tvg-rec="7",Радость моя orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9194/index.m3u8
-#EXTINF:0 tvg-rec="3",Рыжий orig
+#EXTINF:0 tvg-rec="7",Рыжий orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9195/index.m3u8
-#EXTINF:0 tvg-rec="3",Капитан Фантастика HD orig
+#EXTINF:0 tvg-rec="7",Капитан Фантастика HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9196/index.m3u8
-#EXTINF:0 tvg-rec="3",Тамыр (Уфа) orig
+#EXTINF:0 tvg-rec="7",Тамыр (Уфа) orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9198/index.m3u8
-#EXTINF:0 tvg-rec="3",Смайл ТВ orig
+#EXTINF:0 tvg-rec="7",Смайл ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9199/index.m3u8
-#EXTINF:0 tvg-rec="3",Мультиландия orig
+#EXTINF:0 tvg-rec="7",Мультиландия orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9200/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый канал orig
+#EXTINF:0 tvg-rec="7",Первый канал orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9201/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия 1 orig
+#EXTINF:0 tvg-rec="7",Россия 1 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9202/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ orig
+#EXTINF:0 tvg-rec="7",НТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9203/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ orig
+#EXTINF:0 tvg-rec="7",ТНТ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9204/index.m3u8
-#EXTINF:0 tvg-rec="3",РЕН ТВ orig
+#EXTINF:0 tvg-rec="7",РЕН ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9205/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВ-3 orig
+#EXTINF:0 tvg-rec="7",ТВ-3 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9206/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятница! orig
+#EXTINF:0 tvg-rec="7",Пятница! orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9207/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ4 orig
+#EXTINF:0 tvg-rec="7",ТНТ4 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9208/index.m3u8
-#EXTINF:0 tvg-rec="3",360 orig
+#EXTINF:0 tvg-rec="7",360 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9209/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир orig
+#EXTINF:0 tvg-rec="7",Мир orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9211/index.m3u8
-#EXTINF:0 tvg-rec="3",Загородный orig
+#EXTINF:0 tvg-rec="7",Загородный orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9212/index.m3u8
-#EXTINF:0 tvg-rec="3",РБК orig
+#EXTINF:0 tvg-rec="7",РБК orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9213/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир 24 HD orig
+#EXTINF:0 tvg-rec="7",Мир 24 HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9214/index.m3u8
-#EXTINF:0 tvg-rec="3",Euronews Россия orig
+#EXTINF:0 tvg-rec="7",Euronews Россия orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9215/index.m3u8
-#EXTINF:0 tvg-rec="3",Известия orig
+#EXTINF:0 tvg-rec="7",Известия orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9216/index.m3u8
-#EXTINF:0 tvg-rec="3",CGTN orig
+#EXTINF:0 tvg-rec="7",CGTN orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9217/index.m3u8
-#EXTINF:0 tvg-rec="3",Москва 24 orig
+#EXTINF:0 tvg-rec="7",Москва 24 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9218/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир 24 orig
+#EXTINF:0 tvg-rec="7",Мир 24 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9219/index.m3u8
-#EXTINF:0 tvg-rec="3",RT orig
+#EXTINF:0 tvg-rec="7",RT orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9220/index.m3u8
-#EXTINF:0 tvg-rec="3",Центральное телевидение orig
+#EXTINF:0 tvg-rec="7",Центральное телевидение orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9222/index.m3u8
-#EXTINF:0 tvg-rec="3",CGTN Русский HD orig
+#EXTINF:0 tvg-rec="7",CGTN Русский HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9223/index.m3u8
-#EXTINF:0 tvg-rec="3",Дорама HD orig
+#EXTINF:0 tvg-rec="7",Дорама HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9224/index.m3u8
-#EXTINF:0 tvg-rec="3",BollywooD HD orig
+#EXTINF:0 tvg-rec="7",BollywooD HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9225/index.m3u8
-#EXTINF:0 tvg-rec="3",Победа orig
+#EXTINF:0 tvg-rec="7",Победа orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9226/index.m3u8
 #EXTINF:0 tvg-rec="0",Viju TV1000 Русское orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9227/index.m3u8
-#EXTINF:0 tvg-rec="3",Киносемья HD orig
+#EXTINF:0 tvg-rec="7",Киносемья HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9228/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 Action orig
+#EXTINF:0 tvg-rec="7",Viju TV1000 Action orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9229/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше Новое Кино orig
+#EXTINF:0 tvg-rec="7",Наше Новое Кино orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9230/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинокомедия orig
+#EXTINF:0 tvg-rec="7",Кинокомедия orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9231/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Premium FHD orig
+#EXTINF:0 tvg-rec="7",Amedia Premium FHD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9233/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Hit orig
+#EXTINF:0 tvg-rec="7",Amedia Hit orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9234/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 orig
+#EXTINF:0 tvg-rec="7",Viju TV1000 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9235/index.m3u8
-#EXTINF:0 tvg-rec="3",Hollywood orig
+#EXTINF:0 tvg-rec="7",Hollywood orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9236/index.m3u8
-#EXTINF:0 tvg-rec="3",.red orig
+#EXTINF:0 tvg-rec="7",.red orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9237/index.m3u8
-#EXTINF:0 tvg-rec="3",Киносвидание orig
+#EXTINF:0 tvg-rec="7",Киносвидание orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9238/index.m3u8
-#EXTINF:0 tvg-rec="3",Дорама orig
+#EXTINF:0 tvg-rec="7",Дорама orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9239/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский роман orig
+#EXTINF:0 tvg-rec="7",Русский роман orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9240/index.m3u8
-#EXTINF:0 tvg-rec="3",Иллюзион+ orig
+#EXTINF:0 tvg-rec="7",Иллюзион+ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9241/index.m3u8
-#EXTINF:0 tvg-rec="3",Кино ТВ orig
+#EXTINF:0 tvg-rec="7",Кино ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9244/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Serial HD orig
+#EXTINF:0 tvg-rec="7",Viju+ Serial HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9245/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Премьер orig
+#EXTINF:0 tvg-rec="7",Матч! Премьер orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9246/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 1 orig
+#EXTINF:0 tvg-rec="7",Eurosport 1 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9247/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Sport orig
+#EXTINF:0 tvg-rec="7",Viju+ Sport orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9249/index.m3u8
-#EXTINF:0 tvg-rec="3",KHL orig
+#EXTINF:0 tvg-rec="7",KHL orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9250/index.m3u8
-#EXTINF:0 tvg-rec="3",Футбол orig
-#EXTGRP:HD Orig
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9251/index.m3u8
-#EXTINF:0 tvg-rec="3",Курай ТВ orig
+#EXTINF:0 tvg-rec="7",Курай ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9252/index.m3u8
-#EXTINF:0 tvg-rec="3",Bridge TV orig
+#EXTINF:0 tvg-rec="7",Bridge TV orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9253/index.m3u8
-#EXTINF:0 tvg-rec="3",о2тв HD orig
-#EXTGRP:HD Orig
-http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9254/index.m3u8
-#EXTINF:0 tvg-rec="3",Курай ТВ HD orig
+#EXTINF:0 tvg-rec="7",Курай ТВ HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9255/index.m3u8
-#EXTINF:0 tvg-rec="3",о2тв orig
+#EXTINF:0 tvg-rec="7",о2тв orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9256/index.m3u8
-#EXTINF:0 tvg-rec="3",Europa Plus TV orig
+#EXTINF:0 tvg-rec="7",Europa Plus TV orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9257/index.m3u8
-#EXTINF:0 tvg-rec="3",Bridge Classic orig
+#EXTINF:0 tvg-rec="7",Bridge Classic orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9259/index.m3u8
-#EXTINF:0 tvg-rec="3",Nickelodeon orig
+#EXTINF:0 tvg-rec="7",Nickelodeon orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9260/index.m3u8
-#EXTINF:0 tvg-rec="3",Cartoon Network HD orig
+#EXTINF:0 tvg-rec="7",Cartoon Network HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9261/index.m3u8
-#EXTINF:0 tvg-rec="3",Мультимузыка orig
+#EXTINF:0 tvg-rec="7",Мультимузыка orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9262/index.m3u8
-#EXTINF:0 tvg-rec="3",В гостях у сказки orig
+#EXTINF:0 tvg-rec="7",В гостях у сказки orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9263/index.m3u8
-#EXTINF:0 tvg-rec="3",National Geographic Wild orig
+#EXTINF:0 tvg-rec="7",National Geographic Wild orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9264/index.m3u8
-#EXTINF:0 tvg-rec="3",Большая Азия HD orig
+#EXTINF:0 tvg-rec="7",Большая Азия HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9267/index.m3u8
-#EXTINF:0 tvg-rec="3",Загородный int HD orig
+#EXTINF:0 tvg-rec="7",Загородный int HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9268/index.m3u8
-#EXTINF:0 tvg-rec="3",Авто Плюс orig
+#EXTINF:0 tvg-rec="7",Авто Плюс orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9269/index.m3u8
-#EXTINF:0 tvg-rec="3",Кухня orig
+#EXTINF:0 tvg-rec="7",Кухня orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9270/index.m3u8
-#EXTINF:0 tvg-rec="3",Нано ТВ HD orig
+#EXTINF:0 tvg-rec="7",Нано ТВ HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9271/index.m3u8
-#EXTINF:0 tvg-rec="3",Точка Отрыва orig
+#EXTINF:0 tvg-rec="7",Точка Отрыва orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9272/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju Explore orig
+#EXTINF:0 tvg-rec="7",Viju Explore orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9275/index.m3u8
-#EXTINF:0 tvg-rec="3",Зоопарк orig
+#EXTINF:0 tvg-rec="7",Зоопарк orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9276/index.m3u8
-#EXTINF:0 tvg-rec="3",Телекафе orig
+#EXTINF:0 tvg-rec="7",Телекафе orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9278/index.m3u8
-#EXTINF:0 tvg-rec="3",Усадьба orig
+#EXTINF:0 tvg-rec="7",Усадьба orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9279/index.m3u8
-#EXTINF:0 tvg-rec="3",RTG TV orig
+#EXTINF:0 tvg-rec="7",RTG TV orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9280/index.m3u8
-#EXTINF:0 tvg-rec="3",8 канал orig
+#EXTINF:0 tvg-rec="7",8 канал orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9281/index.m3u8
-#EXTINF:0 tvg-rec="3",Дикий orig
+#EXTINF:0 tvg-rec="7",Дикий orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9282/index.m3u8
-#EXTINF:0 tvg-rec="3",Охота и рыбалка orig
+#EXTINF:0 tvg-rec="7",Охота и рыбалка orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9284/index.m3u8
-#EXTINF:0 tvg-rec="3",ЕГЭ ТВ orig
+#EXTINF:0 tvg-rec="7",ЕГЭ ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9285/index.m3u8
-#EXTINF:0 tvg-rec="3",Наша Тема orig
+#EXTINF:0 tvg-rec="7",Наша Тема orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9286/index.m3u8
-#EXTINF:0 tvg-rec="3",World Fashion Channel orig
+#EXTINF:0 tvg-rec="7",World Fashion Channel orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9287/index.m3u8
-#EXTINF:0 tvg-rec="3",Мама orig
+#EXTINF:0 tvg-rec="7",Мама orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9288/index.m3u8
-#EXTINF:0 tvg-rec="3",Доктор orig
+#EXTINF:0 tvg-rec="7",Доктор orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9294/index.m3u8
-#EXTINF:0 tvg-rec="3",Т24 orig
+#EXTINF:0 tvg-rec="7",Т24 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9292/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju Nature orig
+#EXTINF:0 tvg-rec="7",Viju Nature orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9295/index.m3u8
-#EXTINF:0 tvg-rec="3",Домашние Животные orig
+#EXTINF:0 tvg-rec="7",Домашние Животные orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9296/index.m3u8
-#EXTINF:0 tvg-rec="3",Вопросы и ответы orig
+#EXTINF:0 tvg-rec="7",Вопросы и ответы orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9297/index.m3u8
-#EXTINF:0 tvg-rec="3",Время orig
+#EXTINF:0 tvg-rec="7",Время orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9298/index.m3u8
-#EXTINF:0 tvg-rec="3",English Club TV orig
+#EXTINF:0 tvg-rec="7",English Club TV orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9299/index.m3u8
-#EXTINF:0 tvg-rec="3",Моя Планета orig
+#EXTINF:0 tvg-rec="7",Моя Планета orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9300/index.m3u8
-#EXTINF:0 tvg-rec="3",Travel+Adventure orig
+#EXTINF:0 tvg-rec="7",Travel+Adventure orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9301/index.m3u8
 #EXTINF:0 tvg-rec="0",365 дней ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9303/index.m3u8
-#EXTINF:0 tvg-rec="3",Top Secret orig
+#EXTINF:0 tvg-rec="7",Top Secret orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9305/index.m3u8
-#EXTINF:0 tvg-rec="3",Мужской orig
+#EXTINF:0 tvg-rec="7",Мужской orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9306/index.m3u8
-#EXTINF:0 tvg-rec="3",Телепутешествия orig
+#EXTINF:0 tvg-rec="7",Телепутешествия orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9307/index.m3u8
-#EXTINF:0 tvg-rec="3",Авто 24 orig
+#EXTINF:0 tvg-rec="7",Авто 24 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9309/index.m3u8
-#EXTINF:0 tvg-rec="3",FlixSnip orig
+#EXTINF:0 tvg-rec="7",FlixSnip orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9311/index.m3u8
-#EXTINF:0 tvg-rec="3",History FHD orig
+#EXTINF:0 tvg-rec="7",History FHD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9313/index.m3u8
-#EXTINF:0 tvg-rec="3",История orig
+#EXTINF:0 tvg-rec="7",История orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9315/index.m3u8
-#EXTINF:0 tvg-rec="3",Тайны Галактики orig
+#EXTINF:0 tvg-rec="7",Тайны Галактики orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9317/index.m3u8
-#EXTINF:0 tvg-rec="3",Поехали! orig
+#EXTINF:0 tvg-rec="7",Поехали! orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9318/index.m3u8
-#EXTINF:0 tvg-rec="3",Загородная Жизнь orig
+#EXTINF:0 tvg-rec="7",Загородная Жизнь orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9319/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый Вегетарианский orig
+#EXTINF:0 tvg-rec="7",Первый Вегетарианский orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9320/index.m3u8
-#EXTINF:0 tvg-rec="3",Nano orig
+#EXTINF:0 tvg-rec="7",Nano orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9321/index.m3u8
-#EXTINF:0 tvg-rec="3",Investigation Discovery FHD orig
+#EXTINF:0 tvg-rec="7",Investigation Discovery FHD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9322/index.m3u8
-#EXTINF:0 tvg-rec="3",Оружие orig
+#EXTINF:0 tvg-rec="7",Оружие orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9323/index.m3u8
-#EXTINF:0 tvg-rec="3",Зоо ТВ orig
+#EXTINF:0 tvg-rec="7",Зоо ТВ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9324/index.m3u8
-#EXTINF:0 tvg-rec="3",Живая Планета orig
+#EXTINF:0 tvg-rec="7",Живая Планета orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9325/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Право orig
+#EXTINF:0 tvg-rec="7",НТВ Право orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9327/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Стиль orig
+#EXTINF:0 tvg-rec="7",НТВ Стиль жизни orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9328/index.m3u8
-#EXTINF:0 tvg-rec="3",Кто Куда orig
+#EXTINF:0 tvg-rec="7",Кто Куда orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9329/index.m3u8
-#EXTINF:0 tvg-rec="3",Наша Сибирь 4K
+#EXTINF:0 tvg-rec="7",Наша Сибирь 4K
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9330/index.m3u8
-#EXTINF:0 tvg-rec="3",Продвижение orig
+#EXTINF:0 tvg-rec="7",Продвижение orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9331/index.m3u8
-#EXTINF:0 tvg-rec="3",Арсенал HD orig
+#EXTINF:0 tvg-rec="7",Арсенал HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9336/index.m3u8
-#EXTINF:0 tvg-rec="3",Театр orig
+#EXTINF:0 tvg-rec="7",Театр orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9337/index.m3u8
-#EXTINF:0 tvg-rec="3",Крым 24 orig
+#EXTINF:0 tvg-rec="7",Крым 24 orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9338/index.m3u8
-#EXTINF:0 tvg-rec="3",Эхо ТВ
+#EXTINF:0 tvg-rec="7",Эхо ТВ
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9339/index.m3u8
-#EXTINF:0 tvg-rec="3",Волга (Нижний Новгород) orig
+#EXTINF:0 tvg-rec="7",Волга (Нижний Новгород) orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9340/index.m3u8
-#EXTINF:0 tvg-rec="3",БСТ HD orig
+#EXTINF:0 tvg-rec="7",БСТ HD orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9341/index.m3u8
-#EXTINF:0 tvg-rec="3",Москва доверие orig
+#EXTINF:0 tvg-rec="7",Москва доверие orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9342/index.m3u8
-#EXTINF:0 tvg-rec="3",БСТ orig
+#EXTINF:0 tvg-rec="7",БСТ orig
 #EXTGRP:HD Orig
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/9343/index.m3u8
 #EXTINF:0 tvg-rec="0",Душевное HD orig
@@ -12392,10 +12155,10 @@ http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/4001/index.m3u8
 #EXTINF:0 tvg-rec="0",Quadro 4K
 #EXTGRP:4K
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/19262/index.m3u8
-#EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
+#EXTINF:0 tvg-rec="7",Ultra HD Cinema 4K
 #EXTGRP:4K
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/4000/index.m3u8
-#EXTINF:0 tvg-rec="3",Home 4K
+#EXTINF:0 tvg-rec="7",Home 4K
 #EXTGRP:4K
 http://qogcuqhv.vexiumis.top/iptv/P4WXL3C2TK3U9F6FAY2VRASV/4002/index.m3u8
 #EXTINF:0 tvg-rec="0",Наша Сибирь HD orig
@@ -12893,6 +12656,24 @@ http://cdn.balelbrus.com/bigteisti6/muztv_plus7/index.m3u8?token=WWFuODg4fHxXVGt
 #EXTINF:0  tvg-id="elb2401"  catchup="flussonic" catchup-days="3" tvg-name="Пятница! +2" group-title="Плюсовые (RU)" tvg-logo="https://p.rapidnas.org/img/logos/region/piatnica-pl2.png",Пятница! +2
 #EXTGRP:Плюсовые (RU)
 http://cdn.balelbrus.com/bigteisti8/aa_2_5036/index.m3u8?token=WWFuODg4fHxXVGt3TkRFM056VXhNako1
+#EXTINF:0  tvg-id="elb4986"  catchup="flussonic" catchup-days="3" tvg-name="Кинокнига" group-title="Новые каналы" tvg-logo="https://p.rapidnas.org/img/logos/films/kinokniga.png",Кинокнига
+#EXTGRP:Новые каналы
+http://cdn.balelbrus.com/bigteisti1/aa_4_5014/index.m3u8?token=WWFuODg4fHxXVGt3TkRFM056VXhNako1
+#EXTINF:0  tvg-id="elb4987"  catchup="flussonic" catchup-days="3" tvg-name="KinoJam3 HD" group-title="Новые каналы" tvg-logo="https://p.rapidnas.org/img/logos/films/kinojam3.png",KinoJam3 HD
+#EXTGRP:Новые каналы
+http://cdn.balelbrus.com/bigteisti2/aa_4_5015/index.m3u8?token=WWFuODg4fHxXVGt3TkRFM056VXhNako1
+#EXTINF:0  tvg-id="elb4988"  catchup="flussonic" catchup-days="3" tvg-name="VHS-ка Детский HD" group-title="Новые каналы" tvg-logo="https://p.rapidnas.org/img/logos/detskie/vhska-detsky.png",VHS-ка Детский HD
+#EXTGRP:Новые каналы
+http://cdn.balelbrus.com/bigteisti3/aa_4_5016/index.m3u8?token=WWFuODg4fHxXVGt3TkRFM056VXhNako1
+#EXTINF:0  tvg-id="elb4989"  catchup="flussonic" catchup-days="3" tvg-name="TopoToon" group-title="Новые каналы" tvg-logo="https://p.rapidnas.org/img/logos/detskie/topotoon.png",TopoToon
+#EXTGRP:Новые каналы
+http://cdn.balelbrus.com/bigteisti6/aa_4_5017/index.m3u8?token=WWFuODg4fHxXVGt3TkRFM056VXhNako1
+#EXTINF:0  tvg-id="elb4990"  catchup="flussonic" catchup-days="3" tvg-name="НТВ Следствие вели" group-title="Новые каналы" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/ntv-sledstvie-veli.png",НТВ Следствие вели
+#EXTGRP:Новые каналы
+http://cdn.balelbrus.com/bigteisti8/aa_4_5018/index.m3u8?token=WWFuODg4fHxXVGt3TkRFM056VXhNako1
+#EXTINF:0  tvg-id="elb4991"  catchup="flussonic" catchup-days="3" tvg-name="НТВ Своя игра" group-title="Новые каналы" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/ntv-svoja-igra.png",НТВ Своя игра
+#EXTGRP:Новые каналы
+http://cdn.balelbrus.com/bigteisti9/aa_4_5019/index.m3u8?token=WWFuODg4fHxXVGt3TkRFM056VXhNako1
 #EXTINF:0  tvg-id="elb416"  catchup="flussonic" catchup-days="3" tvg-name="ТНВ Планета" group-title="Региональные" tvg-logo="https://p.rapidnas.org/img/logos/region/tnv.png",ТНВ Планета
 #EXTGRP:Региональные
 http://cdn.balelbrus.com/bigteisti6/NASA/index.m3u8?token=WWFuODg4fHxXVGt3TkRFM056VXhNako1
